@@ -1,1 +1,1 @@
-# exploring_pl_sql
+# exploring PL SQL
