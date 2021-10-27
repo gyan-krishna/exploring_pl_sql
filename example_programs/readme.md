@@ -1,4 +1,4 @@
-## PL_SQL Example Questions
+## PL_SQL Example Programs
 
 ## Sample Database used in this example:
 
