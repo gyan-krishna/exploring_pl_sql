@@ -3,6 +3,8 @@
 SET SERVEROUTPUT ON
 SET VERIFY OFF
 
+-- AS = stand alone proc
+-- IN - ??
 CREATE OR REPLACE PROCEDURE new_proc
 AS
 BEGIN
